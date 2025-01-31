@@ -8,7 +8,7 @@
 - Automatic Reset: The game automatically resets after a player wins or if there's a draw, with a 10-second delay before the reset.
 - Interactive Interface: Players can click to place their marks on the grid.
 
-- *Requirements:**
+ *Requirements:**
 
 - Python 3.x
 - Pygame library (Install using pip install pygame)
